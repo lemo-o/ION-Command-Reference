@@ -1,11 +1,11 @@
-# ION 1200 Command Pallete
+# ION 1200 Command Reference
 
-This is the command pallete for the CloudGenix / Palo Alto ION 1200s. 
+This is the command reference for the CloudGenix / Palo Alto ION 1200s. 
 
 I couldn't find reliable command information for the ION devices, so I pulled a dump of all the commands from the CLI of a live ION1200 device.
 
 ## Usage
-Commands are located in *cmdpallete.txt*
+Commands are located in *ION1200reference.txt*
 
 The easiest way to use this file is to simply Ctrl+F for the command you are looking for. 
 
